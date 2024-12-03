@@ -71,6 +71,3 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 ## Contato
 
 Link do Projeto: [https://github.com/JimSP/MarketLab](https://github.com/JimSP/MarketLab)
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/28740574/40d98436-d3d4-453a-86d4-37ea7a8e6502/paste.txt
